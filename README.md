@@ -1,3 +1,4 @@
-Rendszerfutási idő naplózása.
+#Rendszerfutási idő naplózása.
+
 Segítségnyújtás virtualm - Rpi részére (PingvinSarok Discord)
 
