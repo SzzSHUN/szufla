@@ -6,7 +6,7 @@ import os
 import datetime
 import time
 
-#A jelenlegi felhasználó HOME könyta útvonalának tárolása.
+#A jelenlegi felhasználó HOME könytár útvonalának tárolása.
 strHomePath = os.path.expanduser("~")
 #A GIT repo útvonala a lokális gépen.
 strGITpath = f"{strHomePath}/GIT/szufla"
